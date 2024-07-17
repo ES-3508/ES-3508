@@ -1,65 +1,50 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on `MERN Stack` and `Machine Learning` projects 🚀💙
-- 🌱 I’m currently learning advanced ML tools and techniques
+- 🌱 I’m currently working and learning NLP techniques, LLM, RAG, and Chatbot development
 - 👯 I’m looking to collaborate on MERN Stack and React Open-Source projects! 😁
 - 🤔 I’m looking for help with advanced state management in React 🚀 | Coming Soon 😉
+- 🤖 I'm Robotics and Automation Enthusiast and IEEE Region 10 Robotics Competition Finalist 2022
+- 🌐 Interested in IoT, Digital Twin, 🏠 Smart Home, and VR; ☁️ SaaS and PaaS development
+
 - 💬 Ask me about MERN Stack, Python, Machine Learning, React, and Nest.js and I will answer eagerly! 😎
 - 📫 How to reach me: [Github](https://github.com/ES-3508), [Linkedin](https://www.linkedin.com/in/eranda-sanjaya-0a00981a5/), [Email](mailto:erandasanjaya@gmail.com)
 - 😄 Pronouns: He/Him
 
 ### Tech Stack
 
-
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="48">
- 
 **Frontend:**
-- React
-- Next.js
-- CSS, HTML
-- Tailwind CSS
-- MUI
-- Redux
-- Shadcn
-- Formik
-- Zod
+
+- React, Next.js, CSS, HTML, Tailwind CSS, MUI, Redux, Shadcn, Formik, Zod
 
 **Backend:**
-- Node.js
-- Express
-- Nest.js
-- Flask
-- ORM
-- REST
-- WebSocket
+
+- Node.js, Express, Nest.js, Flask, ORM, REST, WebSocket
 
 **Database:**
-- MySQL
-- PostgreSQL
-- MongoDB
+
+- MySQL, PostgreSQL, MongoDB
 
 **Authentication and Authorization:**
-- JWT
-- Firebase
-- Auth0
-- Clerk
-- RBAC
+
+- JWT, Firebase, Auth0, Clerk, RBAC
 
 **Deployment:**
-- Vercel
-- AWS
-- Azure
-- GCP
+
+- Vercel, AWS, Azure, GCP
 
 **CI/CD:**
-- AWS CodePipeline
-- Jenkins
-- Docker
+
+- AWS CodePipeline, Jenkins, Docker
 
 **Architectures:**
-- Microservice
-- Clean
-- Feature-based
+
+- Microservice, Clean, Feature-based
+
+### Skills
+
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MUI-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Shadcn.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Formik.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Zod.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ORM.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/REST.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebSocket.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JWT.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Auth0.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Clerk.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RBAC.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWSCodePipeline.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Microservice.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CleanArchitecture.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FeatureBased.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Iot.svg" width="48">- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Iot.svg" width="20"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DigitalTwin.svg" width="20">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SmartHome.svg" width="20"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VR.svg" width="20"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SaaS.svg" width="20"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PaaS.svg" width="20">
+
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=es-3508&layout=compact&theme=github_dark_dimmed)
 
