@@ -13,7 +13,38 @@
 
 ### Skills
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Shadcn.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Formik.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Zod.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ORM.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/REST.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebSocket.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JWT.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Auth0.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Clerk.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RBAC.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWSCodePipeline.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Microservice.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CleanArchitecture.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FeatureBased.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Iot.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DigitalTwin.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SmartHome.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VR.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SaaS.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PaaS.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DigitalTwin.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SmartHome.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SaaS.svg" width="48">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="48">
+
+
 
 ### Tech Stack
 
@@ -51,5 +82,11 @@
 
 ### Follow me:
 
-<a href="https://www.linkedin.com/in/eranda-sanjaya-0a00981a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.tiktok.com/@es_node?_t=8o6GD998Bh2&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
+<a href="https://www.linkedin.com/in/eranda-sanjaya-0a00981a5/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.tiktok.com/@es_node?_t=8o6GD998Bh2&_r=1" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
+</a>
+
